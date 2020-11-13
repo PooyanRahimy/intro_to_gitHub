@@ -28,3 +28,4 @@ git remote add origin git@github.com:harisree06/intro_to_gitHub.git #get it from
 
 git push -u origin master
 git clone
+harisree06
